@@ -16,8 +16,8 @@ const Hero = () => {
             <a href="#contact" className="btn-primary">
               Solicita tu demo
             </a>
-            <a href="#features" className="btn-secondary">
-              Conoce más
+            <a href="#benefits" className="btn-secondary">
+              Conoce los beneficios
             </a>
           </div>
           
