@@ -5,7 +5,7 @@ const Features = () => {
     <section id="features" className="section-padding bg-white relative overflow-hidden">
       <div className="absolute inset-0 z-0">
         <img
-          src="https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?auto=format&fit=crop&w=2000"
+          src="https://images.unsplash.com/photo-1473091534298-04dcbce3278c?auto=format&fit=crop&w=800"
           alt="Background"
           className="w-full h-full object-cover opacity-5"
         />
