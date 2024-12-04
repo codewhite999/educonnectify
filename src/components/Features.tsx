@@ -1,4 +1,4 @@
-import { Computer, Smartphone, Book, Mail, School, Circuit } from "lucide-react";
+import { Computer, Smartphone, Book, Mail, School, Settings } from "lucide-react";
 
 const Features = () => {
   return (
@@ -54,7 +54,7 @@ const Features = () => {
                 </div>
               </div>
               <div className="flex gap-4">
-                <Circuit className="text-primary shrink-0" />
+                <Settings className="text-primary shrink-0" />
                 <div>
                   <h4 className="font-semibold mb-1">Administración Integral</h4>
                   <p className="text-text-light">Matrícula, pagos y reportes automatizados</p>
