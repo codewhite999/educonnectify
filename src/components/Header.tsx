@@ -8,7 +8,7 @@ const Header = () => {
     <header className="fixed w-full bg-white/95 backdrop-blur-sm z-50 shadow-sm">
       <div className="container mx-auto px-4 py-4">
         <div className="flex items-center justify-between">
-          <div className="text-2xl font-bold text-primary">EduSystem</div>
+          <div className="text-2xl font-bold text-primary">EduSoft360</div>
           
           {/* Desktop Navigation */}
           <nav className="hidden md:flex items-center gap-8">

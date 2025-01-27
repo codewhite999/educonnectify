@@ -16,7 +16,7 @@ const Testimonials = () => {
             Lo que dicen nuestros usuarios
           </h2>
           <p className="text-text-light max-w-2xl mx-auto animate-fade-up [animation-delay:200ms]">
-            Descubre cómo EduSystem ha transformado la gestión educativa en diferentes instituciones
+            Descubre cómo EduSoft360 ha transformado la gestión educativa en diferentes instituciones
           </p>
         </div>
 
@@ -28,7 +28,7 @@ const Testimonials = () => {
               ))}
             </div>
             <p className="text-text-light mb-4">
-              "La implementación de EduSystem ha mejorado significativamente nuestra comunicación con los padres y la eficiencia administrativa."
+              "La implementación de EduSoft360 ha mejorado significativamente nuestra comunicación con los padres y la eficiencia administrativa."
             </p>
             <div className="border-t pt-4">
               <p className="font-semibold">María González</p>

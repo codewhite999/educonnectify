@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="container mx-auto container-padding">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8 text-white">
           <div>
-            <h3 className="text-2xl font-bold mb-4">EduSystem</h3>
+            <h3 className="text-2xl font-bold mb-4">EduSoft360</h3>
             <p className="text-white/80">
               Transformando la educación con tecnología innovadora
             </p>
@@ -17,8 +17,8 @@ const Footer = () => {
             <ul className="space-y-3">
               <li className="flex items-center gap-2">
                 <Mail size={16} className="text-primary" />
-                <a href="mailto:info@edusystem.com" className="text-white/80 hover:text-white">
-                  info@edusystem.com
+                <a href="mailto:info@EduSoft360.com" className="text-white/80 hover:text-white">
+                  info@EduSoft360.com
                 </a>
               </li>
               <li className="flex items-center gap-2">
@@ -73,7 +73,7 @@ const Footer = () => {
         </div>
 
         <div className="mt-12 pt-8 border-t border-white/10 text-center text-white/60">
-          <p>&copy; {new Date().getFullYear()} EduSystem. Todos los derechos reservados.</p>
+          <p>&copy; {new Date().getFullYear()} EduSoft360. Todos los derechos reservados.</p>
         </div>
       </div>
     </footer>
